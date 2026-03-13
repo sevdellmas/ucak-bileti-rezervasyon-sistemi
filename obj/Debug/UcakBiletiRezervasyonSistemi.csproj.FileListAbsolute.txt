@@ -1,0 +1,13 @@
+C:\Users\elmas\OneDrive\Masaüstü\sevde_elmas_230229067\bin\Debug\UcakBiletiRezervayonSistemi.exe
+C:\Users\elmas\OneDrive\Masaüstü\sevde_elmas_230229067\bin\Debug\UcakBiletiRezervayonSistemi.pdb
+C:\Users\elmas\OneDrive\Masaüstü\sevde_elmas_230229067\obj\Debug\UcakBiletiRezervasyonSistemi.csproj.AssemblyReference.cache
+C:\Users\elmas\OneDrive\Masaüstü\sevde_elmas_230229067\obj\Debug\UcakBiletiRezervasyonSistemi.FormAcilis.resources
+C:\Users\elmas\OneDrive\Masaüstü\sevde_elmas_230229067\obj\Debug\UcakBiletiRezervayonSistemi.FormAdmin.resources
+C:\Users\elmas\OneDrive\Masaüstü\sevde_elmas_230229067\obj\Debug\UcakBiletiRezervayonSistemi.FormRezervasyonlarim.resources
+C:\Users\elmas\OneDrive\Masaüstü\sevde_elmas_230229067\obj\Debug\UcakBiletiRezervasyonSistemi.FormYolcu.resources
+C:\Users\elmas\OneDrive\Masaüstü\sevde_elmas_230229067\obj\Debug\UcakBiletiRezervayonSistemi.FormYolcuKayit.resources
+C:\Users\elmas\OneDrive\Masaüstü\sevde_elmas_230229067\obj\Debug\UcakBiletiRezervayonSistemi.Properties.Resources.resources
+C:\Users\elmas\OneDrive\Masaüstü\sevde_elmas_230229067\obj\Debug\UcakBiletiRezervasyonSistemi.csproj.GenerateResource.cache
+C:\Users\elmas\OneDrive\Masaüstü\sevde_elmas_230229067\obj\Debug\UcakBiletiRezervasyonSistemi.csproj.CoreCompileInputs.cache
+C:\Users\elmas\OneDrive\Masaüstü\sevde_elmas_230229067\obj\Debug\UcakBiletiRezervayonSistemi.exe
+C:\Users\elmas\OneDrive\Masaüstü\sevde_elmas_230229067\obj\Debug\UcakBiletiRezervayonSistemi.pdb

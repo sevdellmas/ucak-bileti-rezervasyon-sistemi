@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FB67202E-103C-4C50-BB0A-8E82AB7EEAB3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>UcakBiletiRezervayonSistemi</RootNamespace>
+    <AssemblyName>UcakBiletiRezervayonSistemi</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="forms\FormAcilis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\FormAcilis.Designer.cs">
+      <DependentUpon>FormAcilis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\FormAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\FormAdmin.Designer.cs">
+      <DependentUpon>FormAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\FormRezervasyonlarim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\FormRezervasyonlarim.Designer.cs">
+      <DependentUpon>FormRezervasyonlarim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\FormYolcu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\FormYolcu.Designer.cs">
+      <DependentUpon>FormYolcu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\FormYolcuKayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\FormYolcuKayit.Designer.cs">
+      <DependentUpon>FormYolcuKayit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="classes\Admin.cs" />
+    <Compile Include="classes\Kullanici.cs" />
+    <Compile Include="classes\Rezervasyon.cs" />
+    <Compile Include="classes\Ucus.cs" />
+    <Compile Include="classes\VeriDeposu.cs" />
+    <Compile Include="classes\Yolcu.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SQLYonetici.cs" />
+    <EmbeddedResource Include="forms\FormAcilis.resx">
+      <DependentUpon>FormAcilis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\FormAdmin.resx">
+      <DependentUpon>FormAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\FormRezervasyonlarim.resx">
+      <DependentUpon>FormRezervasyonlarim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\FormYolcu.resx">
+      <DependentUpon>FormYolcu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\FormYolcuKayit.resx">
+      <DependentUpon>FormYolcuKayit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ucak-login.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bulur.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gemini_Generated_Image_6x188s6x188s6x18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gemini_Generated_Image_n5dxz1n5dxz1n5dx.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background_1.jpg" />
+    <Content Include="Resources\form_acilis_img.jpg" />
+    <Content Include="Resources\Gemini_Generated_Image_tlw8botlw8botlw8.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

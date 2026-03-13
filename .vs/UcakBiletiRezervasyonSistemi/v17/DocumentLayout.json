@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elmas\\OneDrive\\Masa\u00FCst\u00FC\\UcakBiletiRezervasyonSistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB67202E-103C-4C50-BB0A-8E82AB7EEAB3}|UcakBiletiRezervasyonSistemi.csproj|c:\\users\\elmas\\onedrive\\masa\u00FCst\u00FC\\ucakbiletirezervasyonsistemi\\classes\\yolcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB67202E-103C-4C50-BB0A-8E82AB7EEAB3}|UcakBiletiRezervasyonSistemi.csproj|solutionrelative:classes\\yolcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB67202E-103C-4C50-BB0A-8E82AB7EEAB3}|UcakBiletiRezervasyonSistemi.csproj|C:\\Users\\elmas\\OneDrive\\Masa\u00FCst\u00FC\\UcakBiletiRezervasyonSistemi\\classes\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB67202E-103C-4C50-BB0A-8E82AB7EEAB3}|UcakBiletiRezervasyonSistemi.csproj|solutionrelative:classes\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB67202E-103C-4C50-BB0A-8E82AB7EEAB3}|UcakBiletiRezervasyonSistemi.csproj|C:\\Users\\elmas\\OneDrive\\Masa\u00FCst\u00FC\\UcakBiletiRezervasyonSistemi\\classes\\ucus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB67202E-103C-4C50-BB0A-8E82AB7EEAB3}|UcakBiletiRezervasyonSistemi.csproj|solutionrelative:classes\\ucus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Yolcu.cs",
+              "DocumentMoniker": "C:\\Users\\elmas\\OneDrive\\Masa\u00FCst\u00FC\\UcakBiletiRezervasyonSistemi\\classes\\Yolcu.cs",
+              "RelativeDocumentMoniker": "classes\\Yolcu.cs",
+              "ToolTip": "C:\\Users\\elmas\\OneDrive\\Masa\u00FCst\u00FC\\UcakBiletiRezervasyonSistemi\\classes\\Yolcu.cs",
+              "RelativeToolTip": "classes\\Yolcu.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T12:26:09.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\elmas\\OneDrive\\Masa\u00FCst\u00FC\\UcakBiletiRezervasyonSistemi\\classes\\Admin.cs",
+              "RelativeDocumentMoniker": "classes\\Admin.cs",
+              "ToolTip": "C:\\Users\\elmas\\OneDrive\\Masa\u00FCst\u00FC\\UcakBiletiRezervasyonSistemi\\classes\\Admin.cs",
+              "RelativeToolTip": "classes\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T12:26:03.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ucus.cs",
+              "DocumentMoniker": "C:\\Users\\elmas\\OneDrive\\Masa\u00FCst\u00FC\\UcakBiletiRezervasyonSistemi\\classes\\Ucus.cs",
+              "RelativeDocumentMoniker": "classes\\Ucus.cs",
+              "ToolTip": "C:\\Users\\elmas\\OneDrive\\Masa\u00FCst\u00FC\\UcakBiletiRezervasyonSistemi\\classes\\Ucus.cs",
+              "RelativeToolTip": "classes\\Ucus.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T12:20:33.733Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
